@@ -1,0 +1,41 @@
+/*Universal*/
+*{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin: 0px; color: white;background-color:rgb(230, 215, 195) ;}
+
+/*Header */
+header {
+position: fixed;
+height: 100px;
+width: 100%;
+background-color: rgb(48, 77, 141);
+}
+.title {  
+    font-size: 48px; 
+    position: fixed;
+    left: 45px;
+    top: 20px;
+    background-color: rgb(48, 77, 141)
+    
+
+}
+.silver {color: silver; background-color:  rgb(48, 77, 141)}
+
+.textlinks {
+    text-align: center;
+    position: fixed;
+    top: 30px;
+    right: 315px;
+    background-color: rgb(48, 77, 141)
+    
+}
+.box-search {
+    margin: 10px;
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+
+
+}
+    
+}
+
