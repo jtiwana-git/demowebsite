@@ -1,41 +1,36 @@
-/*Universal*/
-*{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-margin: 0px; color: white;background-color:rgb(230, 215, 195) ;}
-
-/*Header */
-header {
-position: fixed;
-height: 100px;
-width: 100%;
-background-color: rgb(48, 77, 141);
+*{
+    margin: 0;
+    padding: 0;
 }
-.title {  
-    font-size: 48px; 
-    position: fixed;
-    left: 45px;
-    top: 20px;
-    background-color: rgb(48, 77, 141)
-    
 
+.footer-1 {
+    width: 100%;
+    height: 80px;
+    background-color: teal
 }
-.silver {color: silver; background-color:  rgb(48, 77, 141)}
 
-.textlinks {
-    text-align: center;
-    position: fixed;
-    top: 30px;
-    right: 315px;
-    background-color: rgb(48, 77, 141)
-    
-}
-.box-search {
-    margin: 10px;
-    width: 600px;
+.image1-box {
+    width: 100%;
     height: 600px;
-    background-color: blue;
-
+    background-color:lightgray;
+}
+.move-me {
+    width: 100px;
+    height: 100px;
+    background-color: royalblue;
+}
+.bigcolumn {
+    width: 65%;
+    height: 1000px;
+    background-color: lightgreen;
 
 }
-    
+.littlecolumn {
+    width:100px;
+    height: 100px;
+    position: absolute;
+    bottom: 22px;
+    left: 795px;
+       
+    background-color: red;
 }
-
