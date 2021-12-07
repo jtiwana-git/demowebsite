@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: lightgray;
 }
 
 .footer-1 {
@@ -8,7 +9,7 @@
     height: 80px;
     position: absolute;
     top: 0px;
-    background-color: teal
+    background-color: #2A607C;
 }
 /*LAYOUT OF PARENTS ELEMENTS */
 .image1-box {
@@ -49,6 +50,7 @@
     padding-top: 12px;
     padding-left: 60px;
     display: inline;
+    background-color: #2A607C;
     
 }
 /*CHANGE COLOR FOR SEO TO SILVER  */
@@ -56,6 +58,7 @@
     font-size: xxx-large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
     color: silver;
+    background-color: #2A607C;
 }
 
 /*LINKS*/
@@ -64,6 +67,7 @@
     position: absolute;
     top: 15px;
     right: 150px;
+    background-color: #2A607C;
     
 }
 .navigation li {
@@ -72,19 +76,62 @@ font-size: 18px;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 list-style: none;
 display: inline;
+background-color: #2A607C;
 
 }
 .navigation a {
     text-align: right;
     padding-right: 45px;
+    background-color: #2A607C;
 }
 
 .seo-box {
     background-color: blue;
     width: 1050px;
-    height: 200px;
+    height: 244px;
     padding-right: 17px;
     position: absolute;
     left: 25px;
     top: 29px;
 }
+.seo-header {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 25px;
+    display: inline;
+    width: 196px;
+    position: absolute;
+    left: 490px;
+    margin: 40px 0 3px 0;
+    background: blue;
+}
+.seo-header strong {
+    background-color: blue;
+}
+
+.bigcolumn p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-color: black;
+    width: 490px;
+    height: 100px;
+    position: absolute;
+    left: 490px;
+    margin: 108px 0 3px 0;
+    background-color: blue;
+}
+
+.image-2 {
+    background-color: red;
+    width: 430px;
+    height: 165px;
+    position: absolute;
+    left: 30px;
+    top: 42px;
+
+}
+
+
+
+
+    
